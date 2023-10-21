@@ -1,0 +1,6 @@
+outs:
+- md5: 385b1ce9c7dcf34f615e58bf9a8e6191.dir
+  size: 13300918733
+  nfiles: 24
+  hash: md5
+  path: mpt-7b
