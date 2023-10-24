@@ -1,4 +1,4 @@
-name: "mbt_7b"
+name: "mpt_7b"
 backend: "python"
 
 # Disabling batching in Triton, let vLLM handle the batching on its own.
